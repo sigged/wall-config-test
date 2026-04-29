@@ -1,0 +1,12 @@
+[
+  {
+    "instanceId": "wall-01",
+    "targetUrl": "https://example.com/dashboard",
+    "targetResolution": "1920x1080"
+  },
+  {
+    "instanceId": "wall-02",
+    "targetUrl": "https://example.com/schedule",
+    "targetResolution": "1920x1080"
+  }
+]
