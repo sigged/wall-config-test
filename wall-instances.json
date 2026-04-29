@@ -1,7 +1,7 @@
 [
   {
     "instanceId": "wall-01",
-    "targetUrl": "https://example.com/dashboard",
+    "targetUrl": "https://example.com/dashboard/test",
     "targetResolution": "1920x1080"
   },
   {
