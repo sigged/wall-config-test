@@ -7,7 +7,7 @@
   },
   {
     "instanceId": "wall-02",
-    "targetUrl": "https://example.com/schedule",
+    "targetUrl": "https://www.tweg.be",
     "targetResolution": "1920x1080",
     "enableSsh": false
   }
