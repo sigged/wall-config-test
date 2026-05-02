@@ -1,7 +1,7 @@
 [
   {
     "instanceId": "wall-01",
-    "targetUrl": "https://www.howest.be",
+    "targetUrl": "https://www.tweg.be",
     "targetResolution": "1920x1080",
     "enableSsh": false
   },
