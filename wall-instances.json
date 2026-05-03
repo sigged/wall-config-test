@@ -3,7 +3,7 @@
     "instanceId": "wall-01",
     "targetUrl": "file:///opt/wallpoll/screensaver.html",
     "targetResolution": "1920x1080",
-    "enableSsh": true
+    "enableSsh": false
   },
   {
     "instanceId": "wall-02",
