@@ -1,7 +1,7 @@
 [
   {
     "instanceId": "wall-01",
-    "targetUrl": "https://www.bluebrixx.com",
+    "targetUrl": "/opt/wallpoll/screensaver.html",
     "targetResolution": "1920x1080",
     "enableSsh": false
   },
