@@ -1,7 +1,7 @@
 [
   {
     "instanceId": "wall-01",
-    "targetUrl": "https://www.howest.be/",
+    "targetUrl": "file:///opt/wallpoll/screensaver.html",
     "targetResolution": "1920x1080",
     "enableSsh": true
   },
